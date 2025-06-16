@@ -12,4 +12,4 @@ def getEodData():
     return data
 
 
-print('test')
+print('test2')
